@@ -1,4 +1,6 @@
 # Predicting-car-insurance-cost-throughcollision-risk-through-machine-learning-
-In a hypothetical scenario, we investigated collision risk and associated costs. We used a New York traffic collision datas to make estimates about the number of collisions on a given day. 
+Analyzed NYC traffic collision data to assess risk and project costs in real-world scenarios. Developed Python models to predict collision likelihood and optimize resource allocation based on historical trends. Cleaned, processed, and visualized large datasets for actionable insights.
+
+
 
 https://colab.research.google.com/drive/1gzaIEWsQC5HF5nbxGCDWSMjS21MCXSOJ?usp=drive_link
